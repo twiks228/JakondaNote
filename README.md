@@ -24,6 +24,5 @@ JakondaNote is intended for a wide range of users who require a simple and secur
 If you have any questions, suggestions, or issues related to JakondaNote, please contact us:
 
 - Email: Jakej2k@yandex.ru
-- GitHub Issues: https://github.com/jakonda/JakondaNote/issues
 
 We'll be happy to assist you and improve our program based on your feedback.
