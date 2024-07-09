@@ -7,6 +7,8 @@ JakondaNoteJ2K is a multi-functional text editor that allows users to create, ed
 ## Features
 
 - **Create and Edit Text Documents**: Users can create new text files as well as open and edit existing ones.
+
+  ![image](https://github.com/twiks228/JakondaNote/assets/41331670/9746e8a4-52a3-4fa8-9a7e-e321548b73f4)
 - **Save in .txt and .j2k Formats**: Documents can be saved in regular text format (.txt) or in an encrypted format (.j2k) for additional protection.
 - **Encrypt and Decrypt .j2k Files**: The program uses a robust encryption algorithm to protect the contents of .j2k files. Only JakondaNoteJ2K can open and read these encrypted files.
 - **Customize Appearance**: Users can customize the font, and background color according to their preferences.
