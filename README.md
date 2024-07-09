@@ -1,4 +1,4 @@
-# JakondaNoteJ2K
+# JakondaNote
 
 ![image](https://github.com/twiks228/JakondaNote/assets/41331670/ad9f0afd-d3ef-4e4f-bf0b-9245355583fe)
 
