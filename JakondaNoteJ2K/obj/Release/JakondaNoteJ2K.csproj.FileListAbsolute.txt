@@ -1,0 +1,16 @@
+D:\Vs\JakondaNoteJ2K\JakondaNoteJ2K\bin\Release\JakondaNoteJ2K.exe.config
+D:\Vs\JakondaNoteJ2K\JakondaNoteJ2K\bin\Release\JakondaNoteJ2K.exe.manifest
+D:\Vs\JakondaNoteJ2K\JakondaNoteJ2K\bin\Release\JakondaNoteJ2K.application
+D:\Vs\JakondaNoteJ2K\JakondaNoteJ2K\bin\Release\JakondaNoteJ2K.exe
+D:\Vs\JakondaNoteJ2K\JakondaNoteJ2K\bin\Release\JakondaNoteJ2K.pdb
+D:\Vs\JakondaNoteJ2K\JakondaNoteJ2K\obj\Release\JakondaNoteJ2K.csproj.AssemblyReference.cache
+D:\Vs\JakondaNoteJ2K\JakondaNoteJ2K\obj\Release\JakondaNote.MainFormj2k.resources
+D:\Vs\JakondaNoteJ2K\JakondaNoteJ2K\obj\Release\JakondaNoteJ2K.Properties.Resources.resources
+D:\Vs\JakondaNoteJ2K\JakondaNoteJ2K\obj\Release\JakondaNoteJ2K.SettingsForm.resources
+D:\Vs\JakondaNoteJ2K\JakondaNoteJ2K\obj\Release\JakondaNoteJ2K.csproj.GenerateResource.cache
+D:\Vs\JakondaNoteJ2K\JakondaNoteJ2K\obj\Release\JakondaNoteJ2K.csproj.CoreCompileInputs.cache
+D:\Vs\JakondaNoteJ2K\JakondaNoteJ2K\obj\Release\JakondaNoteJ2K.TrustInfo.xml
+D:\Vs\JakondaNoteJ2K\JakondaNoteJ2K\obj\Release\JakondaNoteJ2K.exe.manifest
+D:\Vs\JakondaNoteJ2K\JakondaNoteJ2K\obj\Release\JakondaNoteJ2K.application
+D:\Vs\JakondaNoteJ2K\JakondaNoteJ2K\obj\Release\JakondaNoteJ2K.exe
+D:\Vs\JakondaNoteJ2K\JakondaNoteJ2K\obj\Release\JakondaNoteJ2K.pdb
