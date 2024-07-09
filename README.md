@@ -16,14 +16,14 @@ JakondaNoteJ2K is a multi-functional text editor that allows users to create, ed
 
 ## Target Audience
 
-JakondaNoteJ2K is intended for a wide range of users who require a simple and secure text editor. It can be useful for students, professionals (such as writers, journalists, or business analysts), and regular users who need a reliable tool for creating and storing text documents.
+JakondaNote is intended for a wide range of users who require a simple and secure text editor. It can be useful for students, professionals (such as writers, journalists, or business analysts), and regular users who need a reliable tool for creating and storing text documents.
 
 
 ## Contacts and Feedback
 
-If you have any questions, suggestions, or issues related to JakondaNoteJ2K, please contact us:
+If you have any questions, suggestions, or issues related to JakondaNote, please contact us:
 
 - Email: Jakej2k@yandex.ru
-- GitHub Issues: https://github.com/jakonda/JakondaNoteJ2K/issues
+- GitHub Issues: https://github.com/jakonda/JakondaNote/issues
 
 We'll be happy to assist you and improve our program based on your feedback.
